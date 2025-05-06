@@ -4,7 +4,7 @@ Soy ingeniera de sistemas y desarrolladora apasionada por la tecnología. 👩�
 
 - 🌱 Actualmente aprendiendo **Spring Boot, ASP.NET y Arquitectura de Software**
 - 🎯 Objetivo 2025: Contribuir a proyectos y trabajar en una empresa de tecnología 🚀
-- 🧠 Intereses: Backend, Frontend, APIs REST, arquitectura limpia, buenas prácticas. 
+- 🧠 Intereses: Backend, Frontend, REST APIs, arquitectura limpia, buenas prácticas. 
 - ✨ Me considero una persona proactiva, curiosa y siempre lista para aprender algo nuevo.
 
 
