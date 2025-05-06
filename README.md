@@ -33,4 +33,4 @@ Soy ingeniera de sistemas y desarrolladora apasionada por la tecnología. 👩�
 
 Puedes encontrarme en [LinkedIn](https://linkedin.com/in/lmlugof) o revisar mis proyectos aquí en GitHub 😄
 
-![Coding GIF]([https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExcjBtdXAzYWo1YXVlZm9yZ3hxaXg2OXJpbDZ4NWVmdzZyaWFtbGV4aiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/VekcnHOwOI5So/giphy.gif))
+![Coding GIF](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExcjBtdXAzYWo1YXVlZm9yZ3hxaXg2OXJpbDZ4NWVmdzZyaWFtbGV4aiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/VekcnHOwOI5So/giphy.gif)
