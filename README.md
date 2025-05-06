@@ -20,7 +20,6 @@ Soy ingeniera de sistemas y desarrolladora apasionada por la tecnología. 👩�
 
 ### 📊 GitHub Stats:
 
-![Stats](https://github-readme-stats.vercel.app/api?username=lmlugof&show_icons=true&theme=tokyonight)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lmlugof&layout=compact&theme=tokyonight)
 
 ### ⚙️ ¿En qué estoy ahora?
